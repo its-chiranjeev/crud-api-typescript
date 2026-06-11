@@ -89,7 +89,7 @@ src/
 ## 🚀 Installation
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/its-chiranjeev/crud-api-typescript.git>
 cd crud_api_ts
 
 npm install
